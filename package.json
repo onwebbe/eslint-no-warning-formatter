@@ -1,0 +1,27 @@
+{
+  "name": "eslint-no-warning-formatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onwebbe/eslint-no-warning-formatter.git"
+  },
+  "keywords": [
+    "eslint",
+    "no-warning",
+    "formatter"
+  ],
+  "author": "onwebbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onwebbe/eslint-no-warning-formatter/issues"
+  },
+  "homepage": "https://github.com/onwebbe/eslint-no-warning-formatter#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
